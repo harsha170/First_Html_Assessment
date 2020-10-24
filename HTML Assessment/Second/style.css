@@ -1,0 +1,84 @@
+body{
+    margin : 20px 250px ;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+.cent{
+    display: flex;
+    font-style: inherit;
+    justify-content: space-between;
+}
+.start{
+    font-size:22px;
+    
+    
+}
+button{
+    color: white;
+    background-color: rgb(74, 74, 240);
+    font-size: 16px;
+    border-radius: 5px;
+}
+.jumbHead{
+    background-color: rgb(206, 204, 204);
+    padding:10px;
+}
+.jumb{
+    font-size: 55px;
+    text-align: center;
+    margin: 5px;
+}
+.dummy{
+    font-size: 18px;
+    text-align: center;
+}
+.signup{
+    padding:5px;
+    border-radius: 5px;
+    background-color: rgb(24, 201, 24);
+    font-size: 25px;
+    justify-content: center;
+    color:whitesmoke;
+    text-align: center;
+    margin-left: 200px;
+    margin: 10px 250px;
+}
+.Launch{
+    padding:5px;
+    border-radius: 5px;
+    background-color: rgb(59, 108, 163);
+    font-size: 25px;
+    justify-content: center;
+    color:whitesmoke;
+    text-align: center;
+    margin: 10px 200px;
+    margin-left: 197px;
+}
+.subHead{
+    justify-content: flex-start;
+    
+    font-size: 18px;
+    
+}
+.sub{
+    justify-content: flex-start;
+    
+    margin-bottom: 10px;
+}
+.subHeadRight{
+    justify-content: flex-end;
+    font-size: 18px;
+}
+.subRight{
+    margin-bottom: 10px;
+}
+.left{
+    margin:10px;
+}
+.right{
+    margin:10px;
+}
+.space{
+    display: flex;
+    justify-content: space-between;
+    margin-bottom: 25px;
+}
